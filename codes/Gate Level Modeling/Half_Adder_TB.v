@@ -1,7 +1,7 @@
 `include "ha.v"
 `timescale 1ns/1ps
 
-module tb();
+module Half_Adder_TB;
   reg a,b;
   wire sum,carry;
 

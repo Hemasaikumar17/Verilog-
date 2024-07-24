@@ -1,7 +1,7 @@
 `include "GATES.v"
 `timescale 1ns/1ps
 
-module tb();
+module Gates_TB;
   reg a,b;
   wire y;
 

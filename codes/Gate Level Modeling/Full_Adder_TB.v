@@ -1,7 +1,7 @@
 `include "fa.v"
 `timescale 1ns/1ps
 
-module tb;
+module Full_Adder_TB;
  reg a,b,c;
  wire sum,carry;
 

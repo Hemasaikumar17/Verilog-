@@ -1,7 +1,7 @@
 `include "hs.v"
 `timescale 1ns/1ps
 
-module tb;
+module Half_Subtractor_TB;
  reg a,b;
  wire borrow,diff;
 
